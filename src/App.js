@@ -1,11 +1,11 @@
-import logo from './logo.svg';
 import './App.css';
+import StudentRegistration from './StudentRegistration';
 
 function App() {
   return (
     <div className="App">
-      <h1>Welcome to React Application</h1>
- 
+      <h1>Welcome to ReactJS Edupoly</h1>
+      <StudentRegistration></StudentRegistration>
     </div>
   );
 }
