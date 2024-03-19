@@ -1,16 +1,5 @@
-.App {
-  background-color: rgb(106, 168, 168);
-  padding:4px;
+.dropdown-menu.profile-menu{
+  position:absolute;
+  right: 0px !important;;
+  left: auto !important;;
 }
-
-.App2 {
-  background-color: rgb(213, 241, 251);
-  border-radius: 3px;
-  padding:5px;
-  margin:3px;
-}
-
-.mydiv{
-  background-color: rgb(253, 253, 253);
-}
-
